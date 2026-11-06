@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/kroki/commit/2665ddf784498abc14917ac7a1ab391b1a2e9bc0",
       "git:hexsha": "2665ddf784498abc14917ac7a1ab391b1a2e9bc0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T18:35:46.562541+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/kroki/commit/284e1726d1d978612a25ed868beda0903ff91a34",
